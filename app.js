@@ -129,7 +129,7 @@ function task4(data) {
   });
 }
 
-graph('output/task1.json', task1);
-graph('output/task2.json', task2);
-graph('output/task3.json', task3);
-graph('output/task4.json', task4);
+graph('task1.json', task1);
+graph('task2.json', task2);
+graph('task3.json', task3);
+graph('task4.json', task4);
