@@ -1,11 +1,11 @@
 <?php
-include("index.html")
-include("app.css")
-include("app.js")
-include("task1.json")
-include("task2.json")
-include("task3.json")
-include("task4.json")
+include_once("index.html")
+include_once("app.css")
+include_once("app.js")
+include_once("task1.json")
+include_once("task2.json")
+include_once("task3.json")
+include_once("task4.json")
 
 
 ?>
